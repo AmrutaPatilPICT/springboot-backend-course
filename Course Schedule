@@ -1,0 +1,29 @@
+	40-Hours Value Added Certificate Course on ‘Java Backend Development using Spring Boot’		
+	Schedule of Course		
+	Start Date: 16 March 2026 to 2 April 2026		
+	Time: 6 PM to 8 PM		
+			
+	Session Content (Theory + Lab Assignments)	Hrs	Probable Date
+1	Inaugration Ceremony	30 min	16 March 2026 (Mon)
+2	OOP Foundations: Introduction, OOP principles, Basic Concepts, Allocation/Deallocation, Basic Structure,  Encapsulation, Abstraction. Lab: Design Employee class with attributes & methods.	2	16 March 2026 (Mon)
+3	Inheritance & Polymorphism. Lab: Permanent, Contract, Intern employee types with salary calculation logic.	2	17 March 2026 (Tue)
+4	Collections Framework: List, Set, Map, Generics. Lab: Store employee records using Map; implement search/update/delete.	2	18 March 2026 (Wed)
+5	Exception Handling & Custom Exceptions. Lab: Create InvalidEmployeeException & validation layer.	2	19 March 2026 (Thu)
+6	Multithreading Basics: Thread class, Runnable, lifecycle. Lab: Create booking simulation thread logs.	2	20 March 2026 (Fri)
+7	Synchronization & Concurrency. Lab: Ticket Booking System with synchronized block; demonstrate race condition.	2	21 March 2026 (Sat)
+8	Need for Frameworks & Spring Overview. Discussion: Traditional vs Framework-based backend.	2	21 March 2026 (Sat)
+9		—	22-Mar-26
+10	Spring Boot Introduction & Project Structure. Lab: Create first Spring Boot app & observe startup logs.	2	23 March 2026 (Mon)
+11	Starters & Maven Dependency Management. Lab: Modify pom.xml and analyze dependency errors.	2	24 March 2026 (Tue)
+12	Application Configuration & Properties. Lab: Read external properties; create dev & prod profiles.	2	25 March 2026 (Wed)
+13	IoC & Dependency Injection. Lab: Create Service & Repository with Autowiring.	2	26 March 2026 (Thu)
+14	Annotations & Component Interaction. Lab: Break DI intentionally and debug bean creation error.	2	27 March 2026 (Fri)
+15	Logging & Global Exception Handling. Lab: Implement centralized exception handler.	2	28 March 2026 (Sat)
+16	Layered Architecture & Request Flow. Lab: Create basic REST controller.	2	28 March 2026 (Sat)
+17	Sunday (Excluded)	—	29-Mar-26
+18	REST API Development (CRUD). Lab: Student CRUD endpoints using Controller–Service–Repository.	2	30 March 2026 (Mon)
+19	Data Persistence Concepts & Entity Mapping. Lab: Create Student entity & connect with in-memory DB.	2	31 March 2026 (Tue)
+20	Spring Data JPA & Repository Pattern. Lab: Implement CRUD via JpaRepository; add custom finder method.	2	1 April 2026 (Wed)
+21	Validation & Testing Overview. Lab: Add input validation & error response customization.	2	2 April 2026 (Thu)
+22		—	05-Apr-26
+23	Mini Project Development – Submission.  Academic Management Backend (Student + Course Module).	4	6 April 2026 (Monday)
