@@ -1,0 +1,54 @@
+Student Environment Setup Guide
+Java Backend Development using Spring Boot
+
+
+1.	Install Java (JDK 17) 
+Download JDK 17 from the official website of Oracle JDK.  (Java 17 - jdk-17_windows-x64_bin.msi)
+After installation, Java will be installed in the following location:
+C:\Program Files\Java\jdk-17
+•	Configure JAVA_HOME
+1. Right click This PC
+2. Click Properties
+3. Select Advanced System Settings
+4. Click Environment Variables
+Under System Variables → New
+Variable Name : JAVA_HOME
+Variable Value : C:\Program Files\Java\jdk-17
+Click OK.
+•	Add Java to PATH
+1. In System Variables, select Path → Edit
+2. Click New
+3. Add the following entry:
+%JAVA_HOME%\bin
+Click OK.
+•	Verify Java Installation
+Open Command Prompt and run:
+java -version
+javac -version
+Expected output should display Java version 17.
+
+
+2.	Install Apache Maven
+Download Apache Maven Binary ZIP 
+Maven 3.x.x - Download Apache Maven – Maven : 
+Binary zip archive	apache-maven-3.9.12-bin.zip
+Do NOT download source archive.
+and extract it to: C:\Program Files\Apache\Maven
+Create a new system variable:
+Variable Name : MAVEN_HOME
+Variable Value : C:\Program Files\Apache\Maven
+Add Maven to the system PATH:
+%MAVEN_HOME%\bin
+Verify installation:
+mvn -version
+
+
+3.	Install IDE
+ IntelliJ IDEA 
+
+
+4.	 Install Git
+Download and install Git for Windows.
+Verify installation:
+git --version
+Clone Course Repository
